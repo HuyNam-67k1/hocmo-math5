@@ -1,0 +1,451 @@
+{
+    "question": {
+        "content": "Trong cách viết phân số sau, cách viết nào sai?",
+        "level": "Nhận biết",
+        "answers":  [
+            {
+                "id": 1,
+                "questionId": 1,
+                "content": "<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mstyle displaystyle=&quot;true&quot; scriptlevel=&quot;0&quot;><mfrac><mn>3</mn><mn>5</mn></mfrac></mstyle></math>",
+                "isRight": false
+            },
+            {
+                "id": 2,
+                "questionId": 1,
+                "content": "<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mstyle displaystyle=&quot;true&quot; scriptlevel=&quot;0&quot;><mfrac><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mn>18</mn></mrow><mn>1</mn></mfrac></mstyle></math>",
+                "isRight": false
+            },
+            {
+                "id": 3,
+                "questionId": 1,
+                "content": "<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mstyle displaystyle=&quot;true&quot; scriptlevel=&quot;0&quot;><mfrac><mn>0</mn><mn>7</mn></mfrac></mstyle></math>",
+                "isRight": false
+            },
+            {
+                "id": 4,
+                "questionId": 1,
+                "content": "<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mstyle displaystyle=&quot;true&quot; scriptlevel=&quot;0&quot;><mfrac><mn>5</mn><mn>0</mn></mfrac></mstyle></math>",
+                "isRight": true
+            }
+        ]
+    },
+  "lesson": [
+    {
+        "contents": [
+            {
+                "id": 9,
+                "title": "test",
+                "content": "test",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": null,
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 14:45:04",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 14:45:04",
+                "createdBy": 1,
+                "zorder": 0
+            },
+            {
+                "id": 8,
+                "title": "test",
+                "content": "test",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": null,
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 12:57:13",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 12:57:13",
+                "createdBy": 1,
+                "zorder": 0
+            },
+            {
+                "id": 7,
+                "title": "test",
+                "content": "test",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": null,
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 12:54:54",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 12:54:54",
+                "createdBy": 1,
+                "zorder": 0
+            },
+            {
+                "id": 6,
+                "title": "Ôn tập Phép nhân và phép chia hai phân số\n",
+                "content": "<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>1. Ph&eacute;p nh&acirc;n hai ph&acirc;n số v&agrave; c&aacute;c t&iacute;nh chất của ph&eacute;p nh&acirc;n hai ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>a) Ph&eacute;p nh&acirc;n hai ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:</strong></strong><strong><strong>Muốn nh&acirc;n hai ph&acirc;n số ta lấy tử số nh&acirc;n với tử số, mẫu số nh&acirc;n với mẫu số.</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ 1: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30450.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ 2: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30457.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Lưu &yacute;:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Sau khi l&agrave;m ph&eacute;p nh&acirc;n hai ph&acirc;n số, nếu thu được ph&acirc;n số chưa tối giản th&igrave; ta phải r&uacute;t gọn th&agrave;nh ph&acirc;n số tối giản.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Khi nh&acirc;n hai ph&acirc;n số, sau bước lấy tử số nh&acirc;n tử số, mẫu số nh&acirc;n mẫu số, nếu tử số v&agrave; mẫu số c&ugrave;ng chia hết cho một số n&agrave;o đ&oacute; th&igrave; ta r&uacute;t gọn lu&ocirc;n, kh&ocirc;ng n&ecirc;n nh&acirc;n l&ecirc;n sau đ&oacute; lại r&uacute;t gọn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ quay lại với v&iacute; dụ 2 ở b&ecirc;n tr&ecirc;n, ta c&oacute; thể l&agrave;m như sau:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30464.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>b) C&aacute;c t&iacute;nh chất của ph&eacute;p nh&acirc;n ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) T&iacute;nh chất giao ho&aacute;n:&nbsp;Khi đổi chỗ c&aacute;c ph&acirc;n số trong một t&iacute;ch th&igrave; t&iacute;ch của ch&uacute;ng kh&ocirc;ng thay đổi.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) <strong><strong>T&iacute;nh chất kết hợp</strong></strong>: Khi nh&acirc;n một t&iacute;ch hai ph&acirc;n số với ph&acirc;n số thứ ba, ta c&oacute; thể nh&acirc;n ph&acirc;n số thứ nhất với t&iacute;ch của hai ph&acirc;n số c&ograve;n lại.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) <strong><strong>T&iacute;nh chất ph&acirc;n phối:&nbsp;</strong></strong>Khi nh&acirc;n một tổng hai ph&acirc;n số với ph&acirc;n số thứ ba, ta c&oacute; thể nh&acirc;n lần lượt từng ph&acirc;n số của tổng với ph&acirc;n số thứ ba rồi cộng c&aacute;c kết quả đ&oacute; lại với nhau.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) <strong><strong>Nh&acirc;n với số&nbsp;</strong></strong>1<strong><strong>:</strong></strong> Ph&acirc;n số n&agrave;o nh&acirc;n với 1 cũng bằng ch&iacute;nh ph&acirc;n số đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Lưu &yacute;:&nbsp;</strong></strong>ta thường &aacute;p dụng c&aacute;c t&iacute;nh chất của ph&eacute;p nh&acirc;n ph&acirc;n số trong c&aacute;c b&agrave;i t&iacute;nh nhanh.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>2. Ph&eacute;p chia hai ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>a) Ph&acirc;n số đảo ngược</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ph&acirc;n số đảo ngược của một ph&acirc;n số l&agrave; ph&acirc;n số đảo ngược tử số th&agrave;nh mẫu số, mẫu số th&agrave;nh tử số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Ph&acirc;n số đảo ngược của ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30465.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\">&nbsp;l&agrave; ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30466.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\">.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>b) Ph&eacute;p chia hai ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc: Muốn chia một ph&acirc;n số cho một ph&acirc;n số, ta lấy ph&acirc;n số thứ nhất nh&acirc;n với ph&acirc;n số thứ hai đảo ngược.</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30467.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>3. Một số dạng b&agrave;i tập</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>a) T&iacute;nh gi&aacute; trị c&aacute;c biểu thức</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:&nbsp;</strong></strong>&Aacute;p dụng c&aacute;c quy tắc t&iacute;nh gi&aacute; trị biểu thức như ưu ti&ecirc;n t&iacute;nh trong ngoặc trước; biểu thức c&oacute; ph&eacute;p nh&acirc;n, chia, cộng, trừ th&igrave; ta thực hiện ph&eacute;p t&iacute;nh nh&acirc;n, chia trước, thực hiện ph&eacute;p cộng trừ sau &hellip;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: T&iacute;nh gi&aacute; trị biểu thức: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30468.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Phương ph&aacute;p: Biểu thức n&agrave;y chỉ chứa ph&eacute;p nh&acirc;n v&agrave; ph&eacute;p chia n&ecirc;n ta t&iacute;nh lần lượt từ tr&aacute;i qua phải.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30469.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>b) T&igrave;m x</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:&nbsp;</strong></strong>X&aacute;c định xem x đ&oacute;ng vai tr&ograve; g&igrave;, từ đ&oacute; t&igrave;m x theo c&aacute;c quy tắc đ&atilde; học</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ. T&igrave;m x , biết: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30470.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Giải</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30471.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30472.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30473.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30474.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30475.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>c) T&iacute;nh nhanh</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:&nbsp;</strong></strong>&Aacute;p dụng c&aacute;c t&iacute;nh chất của ph&eacute;p nh&acirc;n ph&acirc;n số để t&iacute;nh nhanh một c&aacute;ch dễ d&agrave;ng hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ. T&iacute;nh nhanh: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30476.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Giải: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30477.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>d) To&aacute;n c&oacute; lời văn</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Một h&igrave;nh b&igrave;nh h&agrave;nh c&oacute; độ d&agrave;i đ&aacute;y l&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30478.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\">, chiều cao tương ứng l&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30479.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\">. T&iacute;nh diện t&iacute;ch h&igrave;nh b&igrave;nh h&agrave;nh đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Diện t&iacute;ch h&igrave;nh b&igrave;nh h&agrave;nh đ&oacute; l&agrave;:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30480.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"> ( cm<sup style=\"font-size: 13.5px;\">2</sup>)</p>\n<p style=\"text-align: center;color: rgb(0, 0, 0);font-size: 18px;\">Đ&aacute;p số: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-nhan-va-phep-chia-hai-phan-so-30481.png\" alt=\"Ôn tập Phép nhân và phép chia hai phân số\"></p>",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": {
+                    "id": 1,
+                    "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+                    "code": "10",
+                    "parentCode": "0"
+                },
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 12:47:49",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 12:47:49",
+                "createdBy": 1,
+                "zorder": 5
+            },
+            {
+                "id": 5,
+                "title": "Ôn tập Phép cộng và phép trừ hai phân số\n",
+                "content": "<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>1. Cộng, trừ c&aacute;c ph&acirc;n số c&ugrave;ng mẫu số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:</strong></strong><strong><strong>Muốn cộng (hoặc trừ) hai ph&acirc;n số c&ugrave;ng mẫu số ta cộng (hoặc trừ) hai tử số với nhau v&agrave;&nbsp;giữ nguy&ecirc;n mẫu số.</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ 1:&nbsp;</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30410.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\">&nbsp;</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30411.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></strong></strong><br></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Lưu &yacute;:</strong></strong> Sau khi l&agrave;m ph&eacute;p t&iacute;nh cộng (hoặc trừ) hai ph&acirc;n số, nếu thu được ph&acirc;n số chưa tối giản th&igrave; ta phải r&uacute;t gọn th&agrave;nh ph&acirc;n số tối giản.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>2. Cộng, trừ c&aacute;c ph&acirc;n số kh&aacute;c mẫu số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc: Muốn cộng (hoặc trừ) hai ph&acirc;n số kh&aacute;c mẫu số ta&nbsp;quy đồng mẫu số&nbsp;hai ph&acirc;n số đ&oacute; rồi cộng (hoặc trừ) hai ph&acirc;n số đ&atilde; quy đồng.</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ 1:&nbsp;</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30412.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30413.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>3. T&iacute;nh chất của ph&eacute;p cộng ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>+)&nbsp;T&iacute;nh chất giao ho&aacute;n:</strong></strong> Khi đổi chỗ c&aacute;c ph&acirc;n số trong một tổng th&igrave; tổng của ch&uacute;ng kh&ocirc;ng thay đổi.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+ <strong><strong>T&iacute;nh chất kết hợp:</strong></strong> Khi cộng một tổng hai ph&acirc;n số với ph&acirc;n số thứ ba th&igrave; ta c&oacute; thể cộng ph&acirc;n số thứ nhất với tổng của hai ph&acirc;n số c&ograve;n lại.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+<strong><strong>&nbsp;Cộng với số 0:</strong></strong> Ph&acirc;n số n&agrave;o cộng với 0 cũng bằng ch&iacute;nh ph&acirc;n số đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Lưu &yacute;:&nbsp;</strong></strong>ta thường &aacute;p dụng c&aacute;c t&iacute;nh chất của ph&eacute;p cộng ph&acirc;n số trong c&aacute;c b&agrave;i t&iacute;nh nhanh.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>4. Một số dạng b&agrave;i tập</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>a) T&iacute;nh gi&aacute; trị c&aacute;c biểu thức:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Phương ph&aacute;p giải: &Aacute;p dụng c&aacute;c quy tắc t&iacute;nh gi&aacute; trị biểu thức như ưu ti&ecirc;n t&iacute;nh trong ngoặc trước, nh&acirc;n, chia trước, cộng trừ sau &hellip;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:&nbsp;</strong></strong>T&iacute;nh gi&aacute; trị biểu thức: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30414.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Phương ph&aacute;p: Biểu thức n&agrave;y chỉ chứa ph&eacute;p cộng v&agrave; ph&eacute;p trừ n&ecirc;n ta t&iacute;nh lần lượt từ tr&aacute;i qua phải.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30415.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>b) T&igrave;m x</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Phương ph&aacute;p giải: X&aacute;c định xem x đ&oacute;ng vai tr&ograve; số hạng chưa biết, số trừ hay số bị trừ, từ đ&oacute; t&igrave;m được x.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: T&igrave;m x biết:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">a) <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30416.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">b) <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30417.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Giải</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">a) <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30418.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30419.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"><br></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30420.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">b) <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30421.jpeg\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\">&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30422.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30423.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30424.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>c) T&iacute;nh nhanh</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Phương ph&aacute;p giải: &aacute;p dụng c&aacute;c t&iacute;nh chất của ph&eacute;p cộng ph&acirc;n số để t&iacute;nh tổng hoặc hiệu của c&aacute;c ph&acirc;n số một c&aacute;ch dễ d&agrave;ng hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: T&iacute;nh nhanh: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30425.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">B&agrave;i giải</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30427.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\">&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>d) To&aacute;n c&oacute; lời văn</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Một h&igrave;nh chữ nhật c&oacute; chiều d&agrave;i l&agrave; 14/5 cm, chiều rộng l&agrave; 4/3 cm. T&iacute;nh nửa chu vi h&igrave;nh chữ nhật đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Nửa chu vi h&igrave;nh chữ nhật đ&oacute; l&agrave;: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30428.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Đ&aacute;p số: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-phep-cong-va-phep-tru-hai-phan-so-30430.png\" alt=\"Ôn tập Phép cộng và phép trừ hai phân số\">( cm)</p>",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": {
+                    "id": 1,
+                    "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+                    "code": "10",
+                    "parentCode": "0"
+                },
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 12:47:37",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 12:47:37",
+                "createdBy": 1,
+                "zorder": 4
+            },
+            {
+                "id": 4,
+                "title": "Ôn tập So sánh hai phân số (tiếp theo)\n",
+                "content": "<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>4) Một số c&aacute;ch so s&aacute;nh kh&aacute;c</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Dạng 1: So s&aacute;nh với 1</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Điều kiện &aacute;p dụng:</strong></strong>&nbsp; Phương ph&aacute;p n&agrave;y &aacute;p dụng cho dạng b&agrave;i so s&aacute;nh hai ph&acirc;n số, trong đ&oacute; một ph&acirc;n số b&eacute; hơn 1 v&agrave; một ph&acirc;n số lớn hơn 1.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:</strong></strong> So s&aacute;nh hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30335.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30336.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&igrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30337.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30351.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;n&ecirc;n <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30354.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Dạng 2:</strong></strong><strong><strong>So s&aacute;nh với ph&acirc;n số trung gian</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Điều kiện &aacute;p dụng:</strong></strong> Phương ph&aacute;p n&agrave;y &aacute;p dụng khi tử số của ph&acirc;n số thứ nhất b&eacute; hơn tử số của ph&acirc;n số thứ hai v&agrave; mẫu số của ph&acirc;n số thứ nhất lại lớn hơn mẫu số của ph&acirc;n số thứ hai hoặc ngược lại. Khi đ&oacute; ta so s&aacute;nh với ph&acirc;n số trung gian l&agrave; ph&acirc;n số c&oacute; tử số bằng tử số của ph&acirc;n số thứ nhất, c&oacute; mẫu số bằng mẫu số của ph&acirc;n số thứ hai hoặc ngược lại.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Chọn ph&acirc;n số trung gian.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: So s&aacute;nh hai ph&acirc;n số ban đầu với ph&acirc;n số trung gian.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: R&uacute;t ra kết luận.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Lưu &yacute;:</strong></strong> So s&aacute;nh hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30356.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; &nbsp;<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30358.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;(a, b, c, d &nbsp;kh&aacute;c 0).</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Nếu a &gt; c v&agrave; b &lt; d (hoặc a &lt; c v&agrave; b&gt;d &nbsp;th&igrave; ta c&oacute; thể chọn ph&acirc;n số trung gian l&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30363.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;hoặc <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30366.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:</strong></strong> So s&aacute;nh hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30368.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30370.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Chọn ph&acirc;n số trung gian l&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30373.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ta thấy &nbsp;<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30374.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; &nbsp; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30375.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;n&ecirc;n <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30376.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Dạng 3: So s&aacute;nh bằng phần b&ugrave;</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Điều kiện &aacute;p dụng:&nbsp;</strong></strong>Nhận thấy mẫu số lớn hơn tử số ( ph&acirc;n số b&eacute; hơn 1) v&agrave; hiệu của mẫu số với tử số của tất cả c&aacute;c ph&acirc;n số đều bằng nhau hoặc nhỏ th&igrave; ta t&igrave;m phần b&ugrave; với 1.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Ch&uacute; &yacute;:</strong></strong> Phần b&ugrave; với 1 của ph&acirc;n số l&agrave; hiệu giữa 1 v&agrave; ph&acirc;n số đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:</strong></strong> Trong hai ph&acirc;n số, ph&acirc;n số n&agrave;o c&oacute; phần b&ugrave; lớn hơn th&igrave; ph&acirc;n số đ&oacute; nhỏ hơn v&agrave; ngược lại ph&acirc;n số n&agrave;o c&oacute; phần b&ugrave; nhỏ hơn th&igrave; ph&acirc;n số đ&oacute; lớn hơn .</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: T&igrave;m phần b&ugrave; của hai ph&acirc;n số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: So s&aacute;nh hai phần b&ugrave; với nhau.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: R&uacute;t ra kết luận.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:</strong></strong> So s&aacute;nh hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30377.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30378.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30379.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30380.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&igrave; 998&lt; 999 n&ecirc;n <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30381.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;. Do đ&oacute; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30382.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">,</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Do đ&oacute;, <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30383.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Dạng 4:</strong></strong><strong><strong>So s&aacute;nh bằng phần hơn</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Điều kiện &aacute;p dụng:&nbsp;</strong></strong>Nhận thấy tử số lớn hơn mẫu số ( ph&acirc;n số lớn hơn 1) v&agrave; hiệu của tử số với mẫu số của tất cả c&aacute;c ph&acirc;n số đều bằng nhau hoặc nhỏ th&igrave; ta t&igrave;m phần hơn với 1.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Ch&uacute; &yacute;:</strong></strong> Phần hơn với 1 của ph&acirc;n số l&agrave; hiệu giữa ph&acirc;n số đ&oacute; v&agrave; 1.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:</strong></strong> Trong hai ph&acirc;n số, ph&acirc;n số n&agrave;o c&oacute; phần hơn lớn hơn th&igrave; ph&acirc;n số đ&oacute; lớn hơn v&agrave; ngược lại ph&acirc;n số n&agrave;o c&oacute; phần hơn nhỏ hơn th&igrave; ph&acirc;n số đ&oacute; nhỏ hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: T&igrave;m phần hơn của hai ph&acirc;n số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: So s&aacute;nh hai phần hơn với nhau.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: R&uacute;t ra kết luận.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: So s&aacute;nh hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30384.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30385.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Giải</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30393.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30394.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&igrave; 333&gt; 277 n&ecirc;n <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30395.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">. Do đ&oacute;, <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30398.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Vậy <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-tiep-theo-30401.png\" alt=\"Ôn tập Ôn tập So sánh hai phân số (tiếp theo)\">&nbsp;.</p>",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": {
+                    "id": 1,
+                    "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+                    "code": "10",
+                    "parentCode": "0"
+                },
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 12:46:58",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 12:46:58",
+                "createdBy": 1,
+                "zorder": 3
+            },
+            {
+                "id": 3,
+                "title": "Ôn tập So sánh hai phân số\n",
+                "content": "<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>1. So s&aacute;nh hai ph&acirc;n số c&ugrave;ng mẫu số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:</strong></strong>Trong hai ph&acirc;n số c&oacute; c&ugrave;ng mẫu số:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Ph&acirc;n số n&agrave;o c&oacute; tử số b&eacute; hơn th&igrave; ph&acirc;n số đ&oacute; b&eacute; hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Ph&acirc;n số n&agrave;o c&oacute; tử số lớn hơn th&igrave; ph&acirc;n số đ&oacute; lớn hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Nếu tử số bằng nhau th&igrave; hai ph&acirc;n số đ&oacute; bằng nhau.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30313.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30316.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30317.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>2. So s&aacute;nh hai ph&acirc;n số c&ugrave;ng tử số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:&nbsp;</strong></strong>Trong hai ph&acirc;n số c&oacute; c&ugrave;ng tử số:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Ph&acirc;n số n&agrave;o c&oacute; mẫu số b&eacute; hơn th&igrave; ph&acirc;n số đ&oacute; lớn hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Ph&acirc;n số n&agrave;o c&oacute; mẫu số lớn hơn th&igrave; ph&acirc;n số đ&oacute; b&eacute; hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">+) Nếu mẫu số bằng nhau th&igrave; hai ph&acirc;n số đ&oacute; bằng nhau.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: &nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30318.png\" alt=\"Ôn tập So sánh hai phân số\">; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30319.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp;; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30320.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Ch&uacute; &yacute;:&nbsp;</strong></strong>Phần so s&aacute;nh c&aacute;c ph&acirc;n số c&ugrave;ng tử số, học sinh rất hay bị nhầm, c&aacute;c bạn học sinh n&ecirc;n ch&uacute; &yacute; nhớ v&agrave; hiểu đ&uacute;ng quy tắc.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>3. So s&aacute;nh c&aacute;c ph&acirc;n số kh&aacute;c mẫu</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>a) Quy đồng mẫu số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:&nbsp;</strong></strong>Muốn so s&aacute;nh hai ph&acirc;n số kh&aacute;c mẫu số, ta c&oacute; thể quy đồng mẫu số hai ph&acirc;n số đ&oacute; rồi so s&aacute;nh c&aacute;c tử số của hai ph&acirc;n số mới.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Quy đồng mẫu số hai ph&acirc;n số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: So s&aacute;nh hai ph&acirc;n số c&oacute; c&ugrave;ng mẫu số đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: R&uacute;t ra kết luận.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:</strong></strong> So s&aacute;nh hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30321.png\" alt=\"Ôn tập So sánh hai phân số\">v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30322.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30323.png\" alt=\"Ôn tập So sánh hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30324.png\" alt=\"Ôn tập So sánh hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ta c&oacute;: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30325.png\" alt=\"Ôn tập So sánh hai phân số\">(v&igrave; 8&lt; 9) )</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Vậy <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30326.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>b) Quy đồng tử số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Điều kiện &aacute;p dụng:</strong></strong> Khi hai ph&acirc;n số c&oacute; mẫu số kh&aacute;c nhau nhưng mẫu số rất lớn v&agrave; tử số nhỏ th&igrave; ta n&ecirc;n &aacute;p dụng c&aacute;ch quy đồng tử số để việc t&iacute;nh to&aacute;n trở n&ecirc;n dễ d&agrave;ng hơn.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Quy tắc:&nbsp;</strong></strong>Muốn so s&aacute;nh hai ph&acirc;n số kh&aacute;c tử số, ta c&oacute; thể quy đồng tử số hai ph&acirc;n số đ&oacute; rồi so s&aacute;nh c&aacute;c mẫu số của hai ph&acirc;n số mới.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>Phương ph&aacute;p giải:</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Quy đồng tử số hai ph&acirc;n số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: So s&aacute;nh hai ph&acirc;n số c&oacute; c&ugrave;ng tử số đ&oacute;.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: R&uacute;t ra kết luận.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>V&iacute; dụ:</strong></strong> So s&aacute;nh hai ph&acirc;n số: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30327.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30328.png\" alt=\"Ôn tập So sánh hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">C&aacute;ch giải:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ta c&oacute;:</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30329.png\" alt=\"Ôn tập So sánh hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30330.png\" alt=\"Ôn tập So sánh hai phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&igrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30331.png\" alt=\"Ôn tập So sánh hai phân số\">n&ecirc;n <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-so-sanh-hai-phan-so-30332.png\" alt=\"Ôn tập So sánh hai phân số\">&nbsp;.</p>",
+                "description": "test",
+                "duration": 0,
+                "status": false,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": {
+                    "id": 1,
+                    "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+                    "code": "10",
+                    "parentCode": "0"
+                },
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 12:46:22",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 12:46:22",
+                "createdBy": 1,
+                "zorder": 2
+            },
+            {
+                "id": 1,
+                "title": "Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\n",
+                "content": "<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>1. Kh&aacute;i niệm ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-</strong></strong> Ph&acirc;n số bao gồm tử số v&agrave; mẫu số, trong đ&oacute; tử số l&agrave; một số tự nhi&ecirc;n viết tr&ecirc;n dấu gạch ngang, mẫu số l&agrave; số tự nhi&ecirc;n kh&aacute;c 0 viết dưới dấu gạch ngang.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-</strong></strong> C&aacute;ch đọc ph&acirc;n số: Khi đọc ph&acirc;n số ta đọc tử số trước rồi đọc &ldquo;phần&rdquo; sau đ&oacute; đọc đến mẫu số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30256.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;được đọc l&agrave; một phần t&aacute;m</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>C&oacute; thể d&ugrave;ng ph&acirc;n số để ghi kết quả của ph&eacute;p chia một số tự nhi&ecirc;n cho một số tự nhi&ecirc;n kh&aacute;c 0. Ph&acirc;n số đ&oacute; cũng được gọi l&agrave; thương của ph&eacute;p chia đ&atilde; cho.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: 3 : 5=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30257.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-</strong></strong> Mọi số tự nhi&ecirc;n đều c&oacute; thể viết th&agrave;nh ph&acirc;n số c&oacute; mẫu số l&agrave; 1.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: &nbsp;6= <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30293.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">; 18=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30294.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;; ....</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Số 1 c&oacute; thể viết th&agrave;nh ph&acirc;n số c&oacute; tử số v&agrave; mẫu số bằng nhau v&agrave; kh&aacute;c 0.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: 1=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30295.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;; 1=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30296.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">;...</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Số 0 c&oacute; thể viết th&agrave;nh ph&acirc;n số c&oacute; tử số l&agrave; 0 v&agrave; mẫu số kh&aacute;c 0.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: 0=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30297.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;; 0=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30298.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;;...</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>2. T&iacute;nh chất cơ bản của ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Nếu nh&acirc;n cả tử số v&agrave; mẫu số của một ph&acirc;n số với c&ugrave;ng một số tự nhi&ecirc;n kh&aacute;c 0 th&igrave; được một ph&acirc;n số bằng ph&acirc;n số đ&atilde; cho.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Nếu chia hết cả tử số v&agrave; mẫu số của một ph&acirc;n số cho c&ugrave;ng một số tự nhi&ecirc;n kh&aacute;c 0 th&igrave; được một ph&acirc;n số bằng ph&acirc;n số đ&atilde; cho.&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: ; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30300.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>3. Ứng dụng t&iacute;nh chất cơ bản của ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>Dạng 1: R&uacute;t gọn ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: X&eacute;t xem cả tử số v&agrave; mẫu số của ph&acirc;n số đ&oacute; c&ugrave;ng chia hết cho số tự nhi&ecirc;n n&agrave;o lớn hơn 1</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: Chia cả tử số v&agrave; mẫu số của ph&acirc;n số đ&oacute; cho số vừa t&igrave;m được</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: Cứ l&agrave;m thế cho đến khi t&igrave;m được ph&acirc;n số tối giản</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ch&uacute; &yacute;:&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ph&acirc;n số tối giản l&agrave; ph&acirc;n số c&oacute; tử số v&agrave; mẫu số kh&ocirc;ng c&ugrave;ng chia hết cho số n&agrave;o lớn hơn 1</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30301.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>Dạng 2: Quy đồng mẫu số c&aacute;c ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><em>a) Trường hợp mẫu số chung bằng t&iacute;ch của hai mẫu số của hai ph&acirc;n số đ&atilde; cho</em></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Lấy cả tử số v&agrave; mẫu số của ph&acirc;n số thứ nhất nh&acirc;n với mẫu số của ph&acirc;n số thứ hai</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: Lấy cả tử số v&agrave; mẫu số của ph&acirc;n số thứ hai nh&acirc;n với mẫu số của ph&acirc;n số thứ nhất</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Quy đồng hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30302.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30303.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">MSC: 12</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30304.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30305.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><em>b) Mẫu số của một trong c&aacute;c ph&acirc;n số chia hết cho mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại</em></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Lấy mẫu số chung l&agrave; mẫu số m&agrave; chia hết cho mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: T&igrave;m thừa số phụ</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: Nh&acirc;n cả tử số v&agrave; mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại với thừa số phụ tương ứng</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 4: Giữ nguy&ecirc;n ph&acirc;n số c&oacute; mẫu số chia hết cho mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Quy đồng mẫu số hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30306.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30307.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">MSC = 16</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30308.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30309.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>",
+                "description": "test",
+                "duration": 0,
+                "status": true,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": null,
+                "chapter": {
+                    "id": 1,
+                    "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+                    "code": "10",
+                    "parentCode": "0"
+                },
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 08:11:51",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 08:11:51",
+                "createdBy": 1,
+                "zorder": 1
+            }
+        ],
+        "totalPages": 1,
+        "totalItems": 8,
+        "sizeCurrentItems": 8,
+        "numberOfCurrentPage": 0,
+        "first": true,
+        "last": true
+    }
+  ],
+  "chapter":[[
+    {
+      "title": "Chương một. ÔN TẬP VÀ BỔ SUNG VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO DIỆN TÍCH",
+      "lessons": [
+        { "bai": "Bài 1. Ôn tập: Khái niệm về phân số" },
+        {"bai": "Bài 2. Ôn tập: Tính chất cơ bản của phân số" },
+        {"bai": "Bài 3. Ôn tập: So sánh hai phân số" },
+        {"bai": "Bài 4. Ôn tập: So sánh hai phân số (tiếp theo)" },
+        {"bai": "Bài 5. Số thập phân" },
+        {"bai": "Bài 6. Luyện tập" },
+        {"bai": "Bài 7. Ôn tập: Phép cộng và phép trừ hai phân số" },
+        {"bai": "8. Ôn tập: Phép nhân và phép chia hai phân số" },
+        {"bai": "9. Hỗn số" },
+        {"bai": "10. Hỗn số (tiếp theo)" },
+        {"bai": "11. Luyện tập" },
+        {"bai": "12+13+14. Luyện tập chung" },
+        {"bai": "15. Ôn tập về giải toán" },
+        {"bai": "16. Ôn tập và bổ sung về giải toán" },
+        {"bai": "17. Luyện tập – VBT Toán 5" },
+        {"bai": "18. Ôn tập và bổ sung về giải toán (tiếp theo)" },
+        {"bai": "19. Luyện tập" },
+        {"bai": "20. Luyện tập chung" },
+        {"bai": "21. Ôn tập: Bảng đơn vị đo độ dài" },
+        {"bai": "22. Ôn tập: Bảng đơn vị đo độ dài" },
+        {"bai": "23. Luyện tập – VBT Toán 5" },
+        {"bai": "24. Đề-ca-mét vuông. Héc-tô-mét vuông" },
+        {"bai": "25. Mi-li-mét vuông – Bảng đơn vị đo diện tích" },
+        {"bai": " 26. Luyện tập – VBT Toán 5" },
+        {"bai": "27. Héc-ta" },
+        {"bai": "28. Luyện tập – VBT Toán 5" },
+        {"bai": "29+30+31. Luyện tập chung" }
+      ]
+    },
+    {
+      "title": "Chương hai. SỐ THẬP PHÂN. CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN",
+      "lessons": [
+        {"bai": "Bài 32. Khái niệm số thập phân" },
+        {"bai": "33. Khái niệm số thập phân (tiếp theo)" },
+        {"bai": "34: Hàng của số thập phân – Đọc, viết số thập phân" },
+        {"bai": "35. Luyện tập – VBT Toán 5" },
+        {"bai": "36. Hai phân số bằng nhau" },
+        {"bai": "37. So sánh hai phân số thập phân" },
+        {"bai": "38. Luyện tập – VBT Toán 5" },
+        {"bai": "39. Luyện tập chung – VBT Toán 5" },
+        {"bai": "40. Viết các số đo độ dài dưới dạng số thập phân" },
+        {"bai": "41. Luyện tập – VBT Toán 5" },
+        {"bai": "42. Viết số đo khối lượng dưới dạng số thập phân" },
+        {"bai": "43. Viết các số đo diện tích dưới dạng số thập phân" },
+        {"bai": "44+45+46. Luyện tập chung" },
+        {"bai": "47. Tự kiểm tra" },
+        {"bai": "48. Cộng hai số thập phân" },
+        {"bai": "49. Luyện tập – VBT Toán 5" },
+        {"bai": "50. Tổng nhiều số thập phân" },
+        {"bai": " 51. Luyện tập" },
+        {"bai": "52. Trừ hai số thập phân" },
+        {"bai": "53. Luyện tập – VBT Toán 5" },
+        {"bai": "54. Luyện tập chung" },
+        {"bai": "55. Nhân một số thập phân với một số tự nhiên" },
+        {"bai": "56. Nhân một số thập phân với 10, 100, 1000,….." },
+        {"bai": "57. Luyện tập" },
+        {"bai": "58. Nhân một số thập phân với một số thập phân" },
+        {"bai": "59+60. Luyện tập" },
+        {"bai": "61+62. Luyện tập chung" },
+        {"bai": "63. Chia một số thập phân cho một số tự nhiên" },
+        {"bai": "64. Luyện tập – VBT Toán 5" },
+        {"bai": "65. Chia một số thập phân cho 10, 100, 1000,…" },
+        {
+         "bai": " 66. Chia một số tự nhiên cho một số tự nhiên mà thương tìm được là một số thập phân"
+        },
+        {"bai": "67. Luyện tập" },
+        {"bai": "68. Chia một số tự nhiên cho một số thập phân" },
+        {"bai": "69. Luyện tập" },
+        {"bai": "70. Chia một số thập phân cho một số thập phân" },
+        {"bai": "71. Luyện tập" },
+        {"bai": "72+73. Luyện tập chung" },
+        {"bai": "74. Tỉ số phần trăm" },
+        {"bai": "75. Giải toán về tỉ số phần trăm" },
+        {"bai": "76. Luyện tập – VBT Toán 5" },
+        {"bai": "77. Giải toán về tỉ số phần trăm (tiếp theo)" },
+        {"bai": "78. Luyện tập – VBT Toán 5" },
+        {"bai": "79. Giải toán về tỉ số phần trăm (tiếp theo)" },
+        {"bai": "80. Luyện tập – VBT Toán 5" },
+        {"bai": "81+82. Luyện tập chung" },
+        {"bai": "83. Giới thiệu máy tính bỏ túi" },
+        {"bai": "84. Sử dụng máy tính bỏ túi để giải toán về tỉ số phần trăm" }
+      ]
+    },
+    {
+      "title": "Chương ba: HÌNH HỌC",
+      "lessons": []
+    },
+     {
+      "title": "Chương bốn: SỐ ĐO THỜI GIAN.TOÁN CHUYỂN ĐỘNG ĐỀU",
+      "lessons": []
+    },
+     {
+      "title": "Chương năm: ÔN TẬP",
+      "lessons": []
+    }
+
+  ]],
+  "chapters": [
+    {
+            "id": 1,
+            "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+            "code": "10",
+            "parentCode": "0"
+        },
+        {
+            "id": 2,
+            "name": "Chương hai: SỐ THẬP PHÂN. CÁC PHÉP TÍNH VỚI SỐ THẬP PHÂN",
+            "code": "20",
+            "parentCode": "0"
+        },
+        {
+            "id": 3,
+            "name": "Chương ba: HÌNH HỌC",
+            "code": "30",
+            "parentCode": "0"
+        },
+        {
+            "id": 4,
+            "name": "Chương bốn: SỐ ĐO THỜI GIAN.TOÁN CHUYỂN ĐỘNG ĐỀU",
+            "code": "40",
+            "parentCode": "0"
+        },
+        {
+            "id": 5,
+            "name": "Chương năm: ÔN TẬP",
+            "code": "50",
+            "parentCode": "0"
+        },
+        {
+            "id": 6,
+            "name": "I-SỐ THÂP PHÂN",
+            "code": "21",
+            "parentCode": "20"
+        },
+        {
+            "id": 7,
+            "name": "II-CÁC PHÉP TÍNH VỚI SỐ THÂP PHÂN",
+            "code": "22",
+            "parentCode": "20"
+        },
+        {
+            "id": 8,
+            "name": "I-SỐ ĐO THƠI GIAN",
+            "code": "41",
+            "parentCode": "40"
+        },
+        {
+            "id": 9,
+            "name": "II-VẬN TỐC, QUÃNG ĐƯỜNG, THỜI GIAN",
+            "code": "41",
+            "parentCode": "40"
+        },
+        {
+            "id": 10,
+            "name": "I-ÔN TẬP VỀ SỐ TỰ NHIÊN, PHÂN SỐ, SỐ THẬP PHÂN, SỐ ĐO ĐẠI LƯỢNG",
+            "code": "51",
+            "parentCode": "50"
+        },
+        {
+            "id": 11,
+            "name": "II-ÔN TẬP VỀ CÁC PHÉP TÍNH VỚI CÁC SỐ TỰ NHIÊN, PHÂN SỐ, SỐ THẬP PHÂN",
+            "code": "52",
+            "parentCode": "50"
+        },
+        {
+            "id": 12,
+            "name": "III-ÔN TẬP VỀ HÌNH HỌC",
+            "code": "53",
+            "parentCode": "50"
+        },
+        {
+            "id": 13,
+            "name": "VI-ÔN TẬP VỀ GIẢI TOÁN",
+            "code": "54",
+            "parentCode": "50"
+        }
+  ],
+  "contents": [
+ 
+            
+            {
+                "id": 1,
+                "title": "Bài 1. Ôn tập: Khái niệm phân số\n",
+                "content": "<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>1. Kh&aacute;i niệm ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-</strong></strong> Ph&acirc;n số bao gồm tử số v&agrave; mẫu số, trong đ&oacute; tử số l&agrave; một số tự nhi&ecirc;n viết tr&ecirc;n dấu gạch ngang, mẫu số l&agrave; số tự nhi&ecirc;n kh&aacute;c 0 viết dưới dấu gạch ngang.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-</strong></strong> C&aacute;ch đọc ph&acirc;n số: Khi đọc ph&acirc;n số ta đọc tử số trước rồi đọc &ldquo;phần&rdquo; sau đ&oacute; đọc đến mẫu số.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30256.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;được đọc l&agrave; một phần t&aacute;m</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>C&oacute; thể d&ugrave;ng ph&acirc;n số để ghi kết quả của ph&eacute;p chia một số tự nhi&ecirc;n cho một số tự nhi&ecirc;n kh&aacute;c 0. Ph&acirc;n số đ&oacute; cũng được gọi l&agrave; thương của ph&eacute;p chia đ&atilde; cho.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: 3 : 5=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30257.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-</strong></strong> Mọi số tự nhi&ecirc;n đều c&oacute; thể viết th&agrave;nh ph&acirc;n số c&oacute; mẫu số l&agrave; 1.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: &nbsp;6= <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30293.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">; 18=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30294.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;; ....</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Số 1 c&oacute; thể viết th&agrave;nh ph&acirc;n số c&oacute; tử số v&agrave; mẫu số bằng nhau v&agrave; kh&aacute;c 0.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: 1=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30295.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;; 1=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30296.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">;...</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Số 0 c&oacute; thể viết th&agrave;nh ph&acirc;n số c&oacute; tử số l&agrave; 0 v&agrave; mẫu số kh&aacute;c 0.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: 0=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30297.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;; 0=<img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30298.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;;...</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>2. T&iacute;nh chất cơ bản của ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Nếu nh&acirc;n cả tử số v&agrave; mẫu số của một ph&acirc;n số với c&ugrave;ng một số tự nhi&ecirc;n kh&aacute;c 0 th&igrave; được một ph&acirc;n số bằng ph&acirc;n số đ&atilde; cho.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>-&nbsp;</strong></strong>Nếu chia hết cả tử số v&agrave; mẫu số của một ph&acirc;n số cho c&ugrave;ng một số tự nhi&ecirc;n kh&aacute;c 0 th&igrave; được một ph&acirc;n số bằng ph&acirc;n số đ&atilde; cho.&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: ; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30300.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong>3. Ứng dụng t&iacute;nh chất cơ bản của ph&acirc;n số</strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>Dạng 1: R&uacute;t gọn ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: X&eacute;t xem cả tử số v&agrave; mẫu số của ph&acirc;n số đ&oacute; c&ugrave;ng chia hết cho số tự nhi&ecirc;n n&agrave;o lớn hơn 1</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: Chia cả tử số v&agrave; mẫu số của ph&acirc;n số đ&oacute; cho số vừa t&igrave;m được</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: Cứ l&agrave;m thế cho đến khi t&igrave;m được ph&acirc;n số tối giản</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ch&uacute; &yacute;:&nbsp;</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Ph&acirc;n số tối giản l&agrave; ph&acirc;n số c&oacute; tử số v&agrave; mẫu số kh&ocirc;ng c&ugrave;ng chia hết cho số n&agrave;o lớn hơn 1</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30301.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><strong><strong><em>Dạng 2: Quy đồng mẫu số c&aacute;c ph&acirc;n số</em></strong></strong></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><em>a) Trường hợp mẫu số chung bằng t&iacute;ch của hai mẫu số của hai ph&acirc;n số đ&atilde; cho</em></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Lấy cả tử số v&agrave; mẫu số của ph&acirc;n số thứ nhất nh&acirc;n với mẫu số của ph&acirc;n số thứ hai</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: Lấy cả tử số v&agrave; mẫu số của ph&acirc;n số thứ hai nh&acirc;n với mẫu số của ph&acirc;n số thứ nhất</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Quy đồng hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30302.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30303.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">MSC: 12</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30304.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30305.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><em>b) Mẫu số của một trong c&aacute;c ph&acirc;n số chia hết cho mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại</em></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 1: Lấy mẫu số chung l&agrave; mẫu số m&agrave; chia hết cho mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 2: T&igrave;m thừa số phụ</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 3: Nh&acirc;n cả tử số v&agrave; mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại với thừa số phụ tương ứng</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">Bước 4: Giữ nguy&ecirc;n ph&acirc;n số c&oacute; mẫu số chia hết cho mẫu số của c&aacute;c ph&acirc;n số c&ograve;n lại</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">V&iacute; dụ: Quy đồng mẫu số hai ph&acirc;n số <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30306.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">&nbsp;v&agrave; <img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30307.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\">.</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\">MSC = 16</p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30308.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>\n<p style=\"text-align: justify;color: rgb(0, 0, 0);font-size: 18px;\"><img src=\"https://vietjack.com/tai-lieu-tieu-hoc/images/on-tap-khai-niem-phan-so-tinh-chat-co-ban-cua-phan-so-30309.png\" alt=\"Ôn tập Khái niệm phân số - Tính chất cơ bản của phân số\"></p>",
+                "description": "test",
+                "duration": 0,
+                "status": true,
+                "idQuestionType": null,
+                "explanation": null,
+                "lessonSourceMediaLinkVideo": null,
+                "lessonSourceMediaLinkImage": "https://www.youtube.com/watch?v=BR8F-v7JTec",
+                "chapter": {
+                    "id": 1,
+                    "name": "Chương một: ÔN TẬP VÀ BỔ SUNG KIẾN THỨC VỀ PHÂN SỐ. GIẢI TOÁN LIÊN QUAN ĐẾN TỈ LỆ. BẢNG ĐƠN VỊ ĐO ĐIỆN TÍCH",
+                    "code": "10",
+                    "parentCode": "0"
+                },
+                "priorities": [],
+                "practiced": 0,
+                "userIdAsAppover": null,
+                "modifiedDate": "2023-10-07 08:11:51",
+                "modifiedBy": 1,
+                "createdDate": "2023-10-07 08:11:51",
+                "createdBy": 1,
+                "zorder": 1
+            }
+        ],
+  "profile": {
+    "name": "typicode"
+  }
+}
